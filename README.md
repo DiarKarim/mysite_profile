@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/491b07aa-40b8-48b9-8057-19e139c054c7/deploy-status)](https://app.netlify.com/sites/diarkarim/deploys)
+
 # [Hugo Portfolio Theme](https://github.com/wowchemy/starter-hugo-portfolio-theme)
 
 [![Screenshot](./preview.png)](https://wowchemy.com/hugo-themes/)
